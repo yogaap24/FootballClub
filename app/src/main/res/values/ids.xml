@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="relative_layout_container_item_football_club" type="id" />
+    <item name="image_view_item_football_club" type="id" />
+    <item name="text_view_item_football_club" type="id" />
+    <item name="recycler_view_football_club_main_activity" type="id" />
+</resources>
